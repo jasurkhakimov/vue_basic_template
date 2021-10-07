@@ -1,6 +1,4 @@
-# vue_basic_template
-
-## Vue basic template with vue-router, vuex, vuetify
+# Vue basic template with vue-router, vuex, vuetify
 
 Pre setup of login page, admin main page, axios interceptor for token check
 
