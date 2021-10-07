@@ -1,5 +1,9 @@
 # vue_basic_template
 
+## Vue basic template with vue-router, vuex, vuetify
+
+Pre setup of login page, admin main page, axios interceptor for token check
+
 ## Project setup
 ```
 npm install
